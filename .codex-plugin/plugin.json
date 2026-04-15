@@ -1,0 +1,25 @@
+{
+  "name": "ad-reporting",
+  "description": "Internal decisions with structured debates, proposals, and research packaging.",
+  "author": {
+    "name": "Accelerate Data"
+  },
+  "repository": "https://github.com/accelerate-data/reporting-skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "reporting",
+    "proposals",
+    "codex",
+    "claude-code"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Reporting Skills",
+    "shortDescription": "Internal reporting and decision-making skills.",
+    "developerName": "Accelerate Data",
+    "category": "Documentation",
+    "capabilities": [],
+    "screenshots": []
+  }
+}
