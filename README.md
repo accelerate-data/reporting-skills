@@ -1,4 +1,6 @@
-# Reporting Skills
+# Reporting Skills (Retired)
+
+This repository is retired and archived. It is no longer maintained.
 
 Internal decisions with structured debates, proposals, and research packaging.
 
